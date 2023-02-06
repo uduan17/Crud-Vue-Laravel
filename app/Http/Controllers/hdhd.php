@@ -1,0 +1,1 @@
+<a href="../../../resources/js/components/Books/Index.vue"></a>

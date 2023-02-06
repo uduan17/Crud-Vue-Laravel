@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "experimentalDecorators": true
+    },
+
+    "include": [
+        "resources/js"
+    ],
+
+    "baseUrl": ".",
+    "path": {
+        "@/": [
+            "resources/js/*"
+        ]
+    },
+
+    "exclude": [
+        "node_modules",
+        "bower_components",
+        "tmp",
+        "vendor",
+        ".git",
+        "dist",
+        "app",
+        "config",
+        "database",
+        "public",
+        "route",
+        "storage",
+        "test"
+    ]
+}
